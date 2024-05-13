@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "La librería PP MAIN", "..\..\..\..\source\repos\La librería PP\La librería PP MAIN.csproj", "{77F30428-EBDB-493A-998A-19F3067A8EA7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bibloteca PP", "..\..\..\..\source\repos\Classes PP\Bibloteca PP.csproj", "{A2A2EEC0-0B37-4EC8-8AB5-6EEE4696F7B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPractica", "PPPractica\PPPractica.csproj", "{6CEB65A8-5496-48E1-8D17-4A7A23BDDB30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{77F30428-EBDB-493A-998A-19F3067A8EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77F30428-EBDB-493A-998A-19F3067A8EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77F30428-EBDB-493A-998A-19F3067A8EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77F30428-EBDB-493A-998A-19F3067A8EA7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A2A2EEC0-0B37-4EC8-8AB5-6EEE4696F7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2A2EEC0-0B37-4EC8-8AB5-6EEE4696F7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A2EEC0-0B37-4EC8-8AB5-6EEE4696F7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A2EEC0-0B37-4EC8-8AB5-6EEE4696F7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEB65A8-5496-48E1-8D17-4A7A23BDDB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEB65A8-5496-48E1-8D17-4A7A23BDDB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEB65A8-5496-48E1-8D17-4A7A23BDDB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEB65A8-5496-48E1-8D17-4A7A23BDDB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
